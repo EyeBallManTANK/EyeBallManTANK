@@ -57,7 +57,7 @@
       ### Year 2018-2019
       | Website | Project |
       | :------------ | :----------: |
-      | [Code.org](https://studio.code.org/home) | [Parasite](https://studio.code.org/projects/gamelab/soUL_QYf-GB6COfxI166hbMCrXgdkpScTMsAQ8FbnRw)
+      | [Code.org](https://studio.code.org/projects/gamelab/soUL_QYf-GB6COfxI166hbMCrXgdkpScTMsAQ8FbnRw) | Parasite |
         
       ### Fall 2019
       | Course Number | Course Title |
