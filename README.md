@@ -39,7 +39,7 @@
       | Course Number | Course Title |
       | :------------- | :----------: | 
       | CIS125 | [DMACC Online Intro to Programming/Java](https://github.com/EyeBallManTANK/Academic-Work/tree/main/CIS125) |
-      | CIS189 | DMACC Online Python I |
+      | CIS189 | [DMACC Online Python I](https://github.com/EyeBallManTANK/Academic-Work/tree/main/CIS189) |
       | MAT211 | DMACC Calculus I |
       
       ### Spring 2023
