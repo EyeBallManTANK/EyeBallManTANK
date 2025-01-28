@@ -38,7 +38,7 @@
       ### Fall 2022
       | Course Number | Course Title |
       | :------------- | :----------: | 
-      | CIS125 | DMACC Online Intro to Programming/Java |
+      | CIS125 | [DMACC Online Intro to Programming/Java](https://github.com/EyeBallManTANK/Academic-Work/tree/main/CIS125) |
       | CIS189 | DMACC Online Python I |
       | MAT211 | DMACC Calculus I |
       
