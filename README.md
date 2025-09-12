@@ -5,8 +5,7 @@
 
 #### print("Hello World!")  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="15px"> 
 - Iowa State University Freshman
-- Plan Graduation Year🎓:
-----------------2029
+- Plan Graduation Year🎓: 2029
 
 ### Places to find me on👀:
 
