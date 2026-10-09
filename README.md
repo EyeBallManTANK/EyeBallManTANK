@@ -4,7 +4,7 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" alt="side Gif" width="400" align="right" height="300">
 
 #### print("Hello World!")  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="15px"> 
-- Iowa State University Freshman
+- Iowa State University Sophomore
 - Plan Graduation Year🎓: 2029
 
 ### Places to find me on👀:
